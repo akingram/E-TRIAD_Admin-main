@@ -46,28 +46,29 @@ function CreateProduct() {
   });
 
   const categories = [
-    "Vitamins",
-    "Protein",
-    "Omega Fatty Acids",
-    "Performance",
-    "Minerals",
-    "Herbs",
-    "Supplements",
-    "Beauty & Personal Care",
-    "Medical Devices",
-    "Pain Relief",
-    "Skin Care",
-    "Pharmacy",
-    "Sexual Wellbeing",
+   
+       "Electronics", 
+"Software Development",  
+"Cybersecurity",  
+"Cloud Computing",  
+"AI & Machine Learning",  
+"Data Analytics",  
+"Networking",  
+"Hardware & Peripherals",  
+"IoT & Smart Devices",  
+"IT Services",  
+"Blockchain",  
+"DevOps & Automation",  
+"Enterprise Solutions"  
   ];
   const containerTypes = [
     "Glass Bottle",
     "Plastic Container",
-    "Blister Pack",
+    "Pack",
     "Jar",
     "Pouch",
   ];
-  const productForms = ["Softgel", "Capsule", "Tablet", "Powder", "Liquid"];
+  const productForms = ["hardware", "software", "service", "solutions", "firmware"];
 
   // Watch images for preview
   const images = watch("images");

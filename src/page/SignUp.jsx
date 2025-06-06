@@ -41,7 +41,7 @@ function SignUp() {
     <div className="flex items-center justify-center min-h-screen p-4 bg-gray-50">
       <div className="w-full max-w-md space-y-6">
         <div className="text-center">
-          <h1 className="text-3xl font-bold text-blue-500">Welcome to Medzionpharma</h1>
+          <h1 className="text-3xl font-bold text-blue-500">Welcome to E-TRIAD</h1>
           <h2 className="mt-4 text-2xl font-bold">Create your account</h2>
           <p className="mt-2 text-sm text-gray-600">
             Already have an account?{" "}
